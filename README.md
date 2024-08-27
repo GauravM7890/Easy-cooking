@@ -1,6 +1,3 @@
-# EasyCooking🔥![GitHub watchers](https://img.shields.io/github/watchers/dhruba-datta/EasyCooking?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/dhruba-datta/EasyCooking?style=social) 
-
-**[EasyCooking](https://dhruba-datta.github.io/EasyCooking/)** is a cooking tutorial website where you can find cooking recipes based on different cuisines.
 
 
 ## ✅ Features
